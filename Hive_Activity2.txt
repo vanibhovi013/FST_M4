@@ -1,0 +1,4 @@
+HIVE QUERY FOR PROJECT ACTIVITY 2
+---------------------------------
+
+SELECT COUNT(*) FROM episodeIV where INSTR(line, 'LUKE' ) > 0;
